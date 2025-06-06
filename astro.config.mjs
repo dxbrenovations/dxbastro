@@ -9,8 +9,7 @@ import mdx from "@astrojs/mdx";
 // https://astro.build/config
 export default defineConfig({
   // https://docs.astro.build/en/guides/images/#authorizing-remote-images
-  site: "https://dxbrenovations.github.io",
-  base: "/dxbastro",
+  site: "https://dxbrenovations.ae",
   image: {
     domains: ["images.unsplash.com"],
   },
