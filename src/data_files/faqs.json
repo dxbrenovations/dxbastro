@@ -1,29 +1,29 @@
 {
-  "subTitle": "Ask us anything about our brand and products, and get factual responses.",
+  "subTitle": "Ask us anything about our renovation and fitout services.",
   "faqs": [
     {
-      "question": "What types of tools are included in the Starter Kit?",
-      "answer": "The Starter Kit features essential hand and power tools for diverse DIY projects, including hammers, drills, screwdrivers, and a variety of fasteners. It's a curated selection to help beginners and experienced DIYers alike tackle most home improvement tasks."
+      "question": "What types of renovation projects do you handle?",
+      "answer": "We specialize in a wide range of projects, including kitchen and bathroom renovations, full home remodels, office fitouts, and retail space transformations. No project is too big or too small for our team."
     },
     {
-      "question": "Can I upgrade from the Starter Kit to the Professional Toolbox?",
-      "answer": "Absolutely! You can upgrade to the Professional Toolbox at any time to access a wider range of high-quality tools, enjoy priority customer support, and receive exclusive content. Contact our support team for a seamless transition."
+      "question": "How do I get a quote for my project?",
+      "answer": "You can request a free, no-obligation quote by contacting us through our website or by phone. We'll schedule a consultation to discuss your needs, assess the space, and provide a detailed estimate."
     },
     {
-      "question": "What discounts are available for bulk orders through the Professional Toolbox plan?",
-      "answer": "Professional Toolbox members are entitled to exclusive discounts on bulk orders, the percentage of which may vary depending on the order volume. Get in touch with us to discuss your needs, and we'll provide a tailored discount structure."
+      "question": "How long will my renovation project take?",
+      "answer": "The timeline for each project varies depending on its scope and complexity. We provide a detailed project schedule during the planning phase and keep you updated on our progress every step of the way."
     },
     {
-      "question": "What kind of customer support can I expect?",
-      "answer": "All our customers receive dedicated email support. With the Starter Kit, you'll receive our standard support, while the Professional Toolbox plan upgrades you to priority support, meaning faster response times and specialized assistance."
+      "question": "Do you handle all aspects of the renovation, including plumbing and electrical work?",
+      "answer": "Yes, we offer a comprehensive service that includes all necessary trades, such as plumbing, electrical, and cabinetry. We are your one-stop-shop for a seamless renovation experience."
     },
     {
-      "question": "How current are the online resources and tutorials?",
-      "answer": "We regularly update our online resources and tutorials to reflect the latest trends in DIY and construction, as well as introductions to new tools and techniques. Our material aims to be comprehensive and user-friendly for all skill levels."
+      "question": "Can I see examples of your past projects?",
+      "answer": "Absolutely! We have an extensive portfolio of our completed projects that we would be happy to share with you. You can also view a selection of our work on our website."
     },
     {
-      "question": "Does ScrewFast offer services for large-scale construction projects?",
-      "answer": "Yes, our Enterprise Solutions are designed for larger companies requiring comprehensive services. We provide consultation, planning, and supply of high-grade tools and materials, as well as staffing solutions for substantial construction needs. Contact us for a customized quote."
+      "question": "What if I want to make changes during the renovation process?",
+      "answer": "We understand that ideas can evolve. We are flexible and will work with you to accommodate any changes you'd like to make. We'll discuss the implications for the timeline and budget and proceed with your approval."
     }
   ]
 }
