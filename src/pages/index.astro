@@ -8,7 +8,7 @@ import FeaturesGeneral from "@components/sections/features/FeaturesGeneral.astro
 import FeaturesNavs from "@components/sections/features/FeaturesNavs.astro";
 import TestimonialsSection from "@components/sections/testimonials/TestimonialsSection.astro";
 import FAQ from "@components/sections/misc/FAQ.astro";
-import heroImage from "@images/construction-workers.avif";
+import heroImage from "@images/bathroom_renovation.avif";
 import faqs from "@data/faqs.json";
 import features from "@data/features.json";
 import featureImage from "@images/blueprints-image.avif";
@@ -34,11 +34,6 @@ const avatarSrcs: Array<string> = [
     primaryBtnURL="/services"
     secondaryBtn="Get a Quote"
     secondaryBtnURL="/contact"
-    withReview={true}
-    avatars={avatarSrcs}
-    rating=`<span class="font-bold">4.9</span> / 5`
-    starCount={5}
-    reviews=`From Over <span class="font-bold">500+</span> Happy Clients`
     src={heroImage}
     alt="A team of construction workers collaborating on a project."
   />
@@ -55,38 +50,6 @@ const avatarSrcs: Array<string> = [
     src={featureImage}
     alt="Blueprints and design tools on a wooden table."
     features={features}
-  />
-
-  <FeaturesNavs
-    title=`Our <span class="text-yellow-500 dark:text-yellow-400">Comprehensive</span> Services`
-    tabs={[
-      {
-        heading: "Design & Planning",
-        content:
-          "Our creative design team works with you to develop a vision for your space. We create detailed plans and 3D renderings to help you visualize the final outcome before construction begins.",
-        svg: "design",
-        src: design,
-        alt: "A detailed architectural blueprint.",
-        first: true,
-      },
-      {
-        heading: "Construction & Building",
-        content:
-          "Our skilled craftsmen and builders bring your designs to life with precision and care. We use high-quality materials and the latest techniques to ensure a durable and beautiful finish.",
-        svg: "construction",
-        src: construction,
-        alt: "A modern building under construction.",
-        second: true,
-      },
-      {
-        heading: "Project Management",
-        content:
-          "Our experienced project managers oversee every aspect of your renovation, ensuring it stays on schedule and within budget. We provide regular updates and are always available to answer your questions.",
-        svg: "project-management",
-        src: projectManagement,
-        alt: "A person working on a laptop, managing a project.",
-      },
-    ]}
   />
 
   <TestimonialsSection
