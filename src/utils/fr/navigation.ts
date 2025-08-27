@@ -28,11 +28,9 @@ const footerLinks = [
 ];
 
 const socialLinks = {
-  facebook: "#",
-  x: "#",
-  github: "https://github.com/mearashadowfax/ScrewFast",
-  google: "#",
-  slack: "#",
+  facebook: "https://www.facebook.com/people/Renotech-Technical-Services/61550262492895/",
+  youtube: "https://www.youtube.com/@RenotechTechnicalServices",
+  instagram: "https://www.instagram.com/renotechdubai/"
 };
 
 export default {

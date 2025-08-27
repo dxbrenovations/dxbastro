@@ -28,11 +28,9 @@ const footerLinks = [
 ];
 // An object of links for social icons
 const socialLinks = {
-  facebook: "https://www.facebook.com/",
-  x: "https://twitter.com/",
-  github: "https://github.com/mearashadowfax/ScrewFast",
-  google: "https://www.google.com/",
-  slack: "https://slack.com/",
+  facebook: "https://www.facebook.com/people/Renotech-Technical-Services/61550262492895/",
+  youtube: "https://www.youtube.com/@RenotechTechnicalServices",
+  instagram: "https://www.instagram.com/renotechdubai/"
 };
 
 export default {
