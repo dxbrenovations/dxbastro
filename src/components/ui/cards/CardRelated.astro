@@ -20,13 +20,12 @@ interface Props {
   data-astro-prefetch
 >
   <div>
-    <img
+    <Image
       class="aspect-video rounded-xl"
       src={blogEntry.data.cardImage}
       alt={blogEntry.data.cardImageAlt}
       draggable={"false"}
       format={"avif"}
-      inferSize={true}
     />
     <!-- The title of the blog post -->
     <h3
