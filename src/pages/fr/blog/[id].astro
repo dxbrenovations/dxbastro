@@ -39,8 +39,7 @@ const relatedPosts: CollectionEntry<"blog">[] = blogPosts.filter(
 
 const pageTitle: string = `${post.data.title} | ${SITE.title}`;
 // For the meta description, use the first paragraph of content if available
-const metaDescription =
-  post.data.contents[0] || `Lisez ${post.data.title} sur le blog de ScrewFast`;
+const metaDescription = "";
 const ogTitle = `${post.data.title} | Blog | ${SITE.title}`;
 ---
 
@@ -117,29 +116,7 @@ const ogTitle = `${post.data.title} | Blog | ${SITE.title}`;
       </h2>
       {/* Blog post contents */}
       <div class="mb-5 space-y-5 md:mb-8 md:space-y-8">
-        {
-          post.data.contents.map((content: string, index: any) =>
-            index === 1 ? (
-              <>
-                <p class="text-lg text-pretty text-neutral-700 dark:text-neutral-300">
-                  {content}
-                </p>
-                <Image
-                  class="w-full rounded-xl object-cover"
-                  src={post.data.cardImage}
-                  alt={post.data.cardImageAlt}
-                  draggable={"false"}
-                  format={"avif"}
-                  inferSize={true}
-                />
-              </>
-            ) : (
-              <p class="text-lg text-pretty text-neutral-700 dark:text-neutral-300">
-                {content}
-              </p>
-            )
-          )
-        }
+  
       </div>
       <div
         class="mx-auto grid max-w-(--breakpoint-lg) gap-y-5 sm:flex sm:items-center sm:justify-between sm:gap-y-0"
