@@ -5,7 +5,7 @@ author: "Saleh"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Saleh"
 pubDate: 2025-01-24
-cardImage: "https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/SPC%20flooring.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280"
+cardImage: "@/images/blog/post001.webp"
 cardImageAlt: "Wooden floor layers"
 readTime: 5
 tags: [ "wooden flooring", "engineered wood flooring", "SPC flooring", "IVP flooring", "MDF flooring" ]
@@ -14,7 +14,7 @@ tags: [ "wooden flooring", "engineered wood flooring", "SPC flooring", "IVP floo
 
 Wooden flooring has become a popular choice among homeowners due to its timeless elegance, warmth, and durability. However, with the variety of wooden flooring options available in the market, it can be challenging to decide which one best suits your needs. Let’s dive into the different types of wooden flooring, including Engineered Wood Flooring, SPC, IVP, and MDF flooring, and explore their features, advantages, and limitations.
 
-![Wooden floor layers](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/SPC%20flooring.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
+![Wooden floor layers](@/images/blog/post001.webp)
 
 
 ### **1. Engineered Wood Flooring**

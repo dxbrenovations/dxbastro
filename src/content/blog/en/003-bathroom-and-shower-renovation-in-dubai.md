@@ -5,13 +5,13 @@ author: "Saleh"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Saleh"
 pubDate: 2024-12-18
-cardImage: "https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/20241216_140124.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280"
+cardImage: "@/images/blog/post003.jpg"
 cardImageAlt: "Bathroom Renovation in Dubai"
 readTime: 6
 tags: ["bathroom renovation", "Dubai", "waterproofing", "tiling", "home improvement"]
 ---
 
-![Bathroom Renovation in Dubai](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/20241216_140124.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Bathroom Renovation in Dubai")
+![Bathroom Renovation in Dubai](@/images/blog/post003.jpg "Bathroom Renovation in Dubai")
 
 Bathroom Renovation in Dubai
 
@@ -19,7 +19,7 @@ For this project, we were tasked with bathroom renovation in the Oud Mateena dis
 
   
 
-![Before condition of renovating the bathroom](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202024-12-18%20144149.png/:/rs=w:1280 "Before condition of renovating the bathroom")
+![Before condition of renovating the bathroom](@/images/blog/post003-2.png "Before condition of renovating the bathroom")
 
 Before condition of renovating the bathroom
 
@@ -39,7 +39,7 @@ After the screed dried, we began tiling. We selected porcelain tiles which have 
 
   
 
-![After renovation of the bathroom](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/20241216_140140.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "After renovation of the bathroom")
+![After renovation of the bathroom](@/images/blog/post003-3.png "After renovation of the bathroom")
 
 After renovation of the bathroom
 

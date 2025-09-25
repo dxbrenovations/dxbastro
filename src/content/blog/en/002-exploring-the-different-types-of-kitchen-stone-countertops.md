@@ -5,7 +5,7 @@ author: "Saleh"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Saleh"
 pubDate: 2025-01-09
-cardImage: "https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20205617.png/:/rs=w:1280"
+cardImage: "@/images/blog/post002.webp"
 cardImageAlt: "Laminated Kitchen Countertop"
 readTime: 8
 tags: [ "kitchen countertops", "laminated countertops", "wooden countertops", "granite countertops", "quartz countertops", "acrylic countertops", "porcelain composite countertops", "marble countertops" ]
@@ -22,7 +22,7 @@ Laminated countertops are budget-friendly and widely available. They are made by
 
   
 
-![Laminated Kitchen Countertop](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20205617.png/:/rs=w:1280 "Laminated Kitchen Countertop")
+![Laminated Kitchen Countertop](@/images/blog/post002.webp "Laminated Kitchen Countertop")
 
 Laminated Kitchen Countertop
 
@@ -35,7 +35,7 @@ Wooden countertops, often referred to as butcher block, offer a natural and warm
 
   
 
-![Wooden Kitchen Countertop](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20204715.png/:/rs=w:1280 "Wooden Kitchen Countertop")
+![Wooden Kitchen Countertop](@/images/blog/post002-02.webp "Wooden Kitchen Countertop")
 
 Wooden Kitchen Countertop
 
@@ -48,7 +48,7 @@ Granite is one of the most popular materials for kitchen countertops due to its 
 
   
 
-![Granite Kitchen Countertop](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20204618.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Granite Kitchen Countertop")
+![Granite Kitchen Countertop](@/images/blog/post002-03.webp "Granite Kitchen Countertop")
 
 Granite Kitchen Countertop
 
@@ -61,7 +61,7 @@ Quartz countertops are engineered stone surfaces made from crushed quartz mixed 
 
   
 
-![Quartz Kitchen Countertop](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20204914.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Quartz Kitchen Countertop")
+![Quartz Kitchen Countertop](@/images/blog/post002-04.webp "Quartz Kitchen Countertop")
 
 Quartz Kitchen Countertop
 
@@ -74,7 +74,7 @@ Acrylic countertops, also known as solid surface countertops, are a versatile op
 
   
 
-![Acrylic Kitchen Countertop](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20205032.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Acrylic Kitchen Countertop")
+![Acrylic Kitchen Countertop](@/images/blog/post002-05.webp "Acrylic Kitchen Countertop")
 
 Acrylic Kitchen Countertop
 
@@ -87,7 +87,7 @@ Porcelain countertops are made from ceramic clay and other natural materials, ma
 
   
 
-![Porcelain Composite Kitchen Countertop](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20205201.png/:/rs=w:1280 "Porcelain Composite Kitchen Countertop")
+![Porcelain Composite Kitchen Countertop](@/images/blog/post002-06.webp "Porcelain Composite Kitchen Countertop")
 
 Porcelain Composite Kitchen Countertop
 
@@ -100,7 +100,7 @@ Marble is a timeless and luxurious choice for kitchen countertops, often sought 
 
   
 
-![Marble kitchen counter top](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/Screenshot%202025-01-09%20205334.png/:/rs=w:1280 "Marble kitchen counter top")
+![Marble kitchen counter top](@/images/blog/post002-07.webp "Marble kitchen counter top")
 
 Marble kitchen counter top
 

@@ -5,14 +5,14 @@ author: "Saleh"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Saleh"
 pubDate: 2024-12-13
-cardImage: "https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/mason.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280"
+cardImage: "@/images/blog/post004-1.png"
 cardImageAlt: "Bathroom Renovation in Dubai"
 readTime: 5
 tags: ["bathroom renovation", "Dubai", "interior design", "standing shower", "lighting"]
 ---
 
 
-![Bathroom Renovation in Dubai](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/mason.webp/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Bathroom Renovation in Dubai")
+![Bathroom Renovation in Dubai](@/images/blog/post004-1.png "Bathroom Renovation in Dubai")
 
 Bathroom Renovation in Dubai
 
@@ -20,7 +20,7 @@ Bathrooms in Dubai's villas and apartments often reflect the design trends of th
 
   
 
-![Removal of the bathtub in Dubai](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/IMG-20241111-WA0001.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Removal of the bathtub in Dubai")
+![Removal of the bathtub in Dubai](@/images/blog/post004-2.png "Removal of the bathtub in Dubai")
 
 Removal of the bathtub in Dubai
 
@@ -36,7 +36,7 @@ Another key improvement in contemporary bathroom design is the focus on lighting
 
   
 
-![Notice the Accumulated water under the bathtub](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/20241110_113618.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Notice the Accumulated water under the bathtub")
+![Notice the Accumulated water under the bathtub](@/images/blog/post004-3.png "Notice the Accumulated water under the bathtub")
 
 Notice the Accumulated water under the bathtub
 
