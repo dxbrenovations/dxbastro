@@ -1,0 +1,58 @@
+---
+title: "Humidity Damages to Gypsum Walls and Ceilings in Vacant Homes"
+description: "Learn how Dubai's humidity can damage gypsum walls and ceilings in vacant homes, and discover prevention and repair tips."
+author: "Saleh"
+authorImage: "@/images/blog/jacob.avif"
+authorImageAlt: "Saleh"
+pubDate: 2024-07-30
+cardImage: "@/images/blog/post013-1.png"
+cardImageAlt: "Effect of humidity on ceiling"
+readTime: 5
+tags: ["humidity damage", "gypsum walls", "Dubai", "vacant homes", "ceiling repair"]
+---
+
+![](@/images/blog/post013-1.png)
+
+Dubai's climate is notorious for its high temperatures and humidity, which can wreak havoc on homes if not properly managed. This is especially true for vacant homes or apartments left unattended for an extended period, such as when residents are away on vacation. A commonly overlooked issue in these situations is the detrimental effect of humidity on gypsum walls. This article delves into the mechanics of humidity damage, the importance of proper insulation, and the potential costs associated with repairs.
+
+#### The Humidity damages on Gypsum Walls
+
+Gypsum walls, also known as drywall, are popular in many homes and apartments due to their affordability and ease of installation. However, they are highly susceptible to moisture damage. In a vacant property with the air conditioning system turned off, the internal temperature and humidity levels can rise significantly. Gypsum walls absorb this moisture, leading to various issues such as:
+
+1.  **Swelling and Warping:**  When gypsum absorbs moisture, it tends to swell and warp. This can cause the walls to become uneven and can even lead to structural weaknesses.
+2.  **Mold and Mildew Growth:**  High humidity levels create an ideal environment for mold and mildew to thrive. This is not only unsightly but can also pose significant health risks to occupants.
+3.  **Cracking and Peeling:**  As the absorbed moisture eventually evaporates, it can cause the gypsum to dry out unevenly, leading to cracks and peeling paint.
+
+In the photo below it can be seen the humidity stains on ceiling in an apartment ceiling where the windows were not sealed properly and left unattended for only one week.
+
+![Effect of humidity on ceiling](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/20240723_105648.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Effect of humidity on ceiling")
+
+Effect of humidity on ceiling
+
+#### The Importance of Good Insulation
+
+One of the primary defenses against humidity damage is proper insulation, especially around windows and other potential entry points for moist air. High-quality insulation serves as a barrier that prevents the outside humidity from penetrating the interior of the home. However, poor insulation or gaps around windows and doors can allow humid air to enter, condense on cooler surfaces like gypsum walls, and cause damage over time.
+
+Double-glazed windows and well-sealed doors are essential features in homes located in humid climates like Dubai. Additionally, using vapor barriers and dehumidifiers can significantly reduce the risk of moisture accumulation inside the home. For residents planning to leave their property vacant, it's advisable to leave the air conditioning on at a low setting to maintain a stable internal environment.
+
+In the photo below it can be seen the effect of humidity on an apartment ceiling where the windows were not sealed properly and left unattended for only one week. For this apartment we had to wait for two days with AC on so that the walls gets dry, and then proceed with the ceiling and wall paint.
+
+![ceiling damages due to high humidity in Dubai](https://img1.wsimg.com/isteam/ip/c49a412a-7d5c-4c86-b371-17b58bdd84ac/20240723_105604.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "ceiling damages due to high humidity in Dubai")
+
+ceiling damages due to high humidity in Dubai
+
+#### The Cost of Repairs
+
+The costs associated with repairing humidity-damaged gypsum walls can vary widely, depending on the extent of the damage. Minor issues like peeling paint and small cracks can often be resolved with a fresh coat of paint and some patching material. However, severe damage, such as widespread mold growth or significant warping, may require complete replacement of the affected drywall sections.
+
+**Repair Costs Breakdown:**
+
+-   **Minor Repairs:**  Small cracks and peeling paint can cost between AED 500 to AED 1,500, depending on the size of the area.
+-   **Moderate Repairs:**  Removing and replacing sections of damaged drywall, along with mold remediation, can range from AED 2,000 to AED 5,000.
+-   **Major Repairs:**  Full wall replacements, extensive mold remediation, and insulation upgrades can exceed AED 10,000, especially if multiple rooms are affected.
+
+Beyond the financial costs, there's also the inconvenience and time required to complete these repairs, which can disrupt daily life. Therefore, preventative measures like ensuring good insulation and maintaining a consistent internal climate are invaluable.
+
+### Conclusion
+
+In summary, the high humidity levels in Dubai can severely damage gypsum walls, especially in vacant homes where the air conditioning is turned off. The importance of good insulation cannot be overstated, as it serves as a crucial barrier against moisture intrusion. While the cost of repairs can be significant, taking proactive measures can prevent much of the damage and save homeowners both time and money in the long run. If you plan to leave your home vacant, consider keeping the air conditioning on at a low setting and ensure all insulation is in good condition to safeguard against the damaging effects of humidity. Contact us for a free inspection.
