@@ -1,9 +1,9 @@
 ---
 title: "Exploring Different Types of Wooden Floorings for Your Home"
 description: "Discover the ideal wooden flooring for your home with our guide to Engineered Wood, SPC, IVP, and MDF options. Learn about their features, pros, and cons to make the perfect choice for your space."
-author: "Saleh"
-authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+author: "Renotech Technical Services LLC"
+authorImage: "@/images/Logo - white bg.jpg"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2025-01-24
 cardImage: "@/images/blog/post001.webp"
 cardImageAlt: "Wooden floor layers"

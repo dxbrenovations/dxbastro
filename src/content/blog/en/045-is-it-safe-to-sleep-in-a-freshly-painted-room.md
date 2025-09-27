@@ -1,7 +1,7 @@
 ---
 title: "Is it safe to sleep in a freshly painted room?"
 description: "A guide to the safety of sleeping in a freshly painted room in Dubai, with tips on VOCs, ventilation, and health precautions."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Saleh"
 pubDate: 2023-04-29
