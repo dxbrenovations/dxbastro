@@ -45,4 +45,4 @@ The Wall Paint, Mirror Installation, and Other Tasks Completed
 
 With the completion of the flooring and mirror installation, the meticulously repaired gym equipment was reinstated in its refurbished setting. The project was executed with precision, ensuring that the gym now boasts not only a renewed visual appeal but also enhanced functionality.
 
-At Renovtek Technical Services, we take pride in delivering turnkey solutions that breathe new life into spaces. Our commitment to excellence and a keen eye for detail were instrumental in the successful completion of this gym renovation project. We look forward to the opportunity to bring our expertise to your future endeavors.
+At DXB Renovations Technical Services, we take pride in delivering turnkey solutions that breathe new life into spaces. Our commitment to excellence and a keen eye for detail were instrumental in the successful completion of this gym renovation project. We look forward to the opportunity to bring our expertise to your future endeavors.

@@ -51,4 +51,4 @@ In Dubai, with its hot climate and varying humidity levels, it's crucial to use 
 
 In any home renovation or tiling project, selecting the right contractor is as important as choosing the right materials. Ensure that you hire a reputable and experienced contractor who can deliver high-quality workmanship. By working with professionals who understand the local market and tiling standards, you can avoid costly mistakes and delays.
 
-By planning your budget carefully, selecting the appropriate materials, and hiring  [a trusted contractor](https://renovtekdubai.com/), you can achieve a successful tiling project that meets your expectations without breaking the bank.
+By planning your budget carefully, selecting the appropriate materials, and hiring  [a trusted contractor](https://dxbrenovations.ae/), you can achieve a successful tiling project that meets your expectations without breaking the bank.

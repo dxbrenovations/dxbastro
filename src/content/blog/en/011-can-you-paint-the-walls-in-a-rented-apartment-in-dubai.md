@@ -17,7 +17,7 @@ Renting an apartment in Dubai comes with a unique set of rules and consideration
 
   
 
-[![Choosing colors for the wall painting in an apartment](https://img1.wsimg.com/isteam/stock/10334/:/rs=w:1280 "Choosing colors for the wall painting in an apartment")](https://renovtekdubai.com/contact-us)
+[![Choosing colors for the wall painting in an apartment](https://img1.wsimg.com/isteam/stock/10334/:/rs=w:1280 "Choosing colors for the wall painting in an apartment")](https://dxbrenovations.ae/contact-us)
 
 best painting services in dubai
 
@@ -27,7 +27,7 @@ If a tenant fails to revert the walls to their original condition, the landlord 
 
   
 
-[![Color section for wall painting](https://img1.wsimg.com/isteam/stock/10333/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Color section for wall painting")](https://renovtekdubai.com/contact-us)
+[![Color section for wall painting](https://img1.wsimg.com/isteam/stock/10333/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280 "Color section for wall painting")](https://dxbrenovations.ae/contact-us)
 
 Color section for wall painting
 

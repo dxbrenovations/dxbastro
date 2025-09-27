@@ -61,4 +61,4 @@ Each type of interior paint finish has its own unique set of advantages and disa
 
 Selecting the right paint finish is just as important as choosing the right color for your space. Whether you opt for the subtle elegance of a matte or eggshell finish, or the durability and shine of a gloss or semi-gloss finish, each type of paint has a role in enhancing your home’s beauty and function. When planning your interior painting project, it's essential to consider the specific needs of each room and how much wear and tear the surfaces will encounter.
 
-For quality interior painting services, consider contacting  [**Renotech Technical Services LLC**](https://renovtekdubai.com/), a company that specializes in delivering top-notch painting services at competitive prices in Dubai.
+For quality interior painting services, consider contacting  [**Renotech Technical Services LLC**](https://dxbrenovations.ae/), a company that specializes in delivering top-notch painting services at competitive prices in Dubai.

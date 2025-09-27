@@ -29,4 +29,4 @@ For tenants, the key is to communicate with your landlord. If you want to make c
 
 In summary, landlords are responsible for delivering the apartment in good condition, including freshly painted walls if needed. Tenants, on the other hand, must take care of the property and return it in the same condition, repairing and repainting if necessary before moving out. Keeping records at the start of the tenancy and maintaining open communication with the landlord can help avoid any issues when it's time to hand the apartment back.
 
-[Contact us](https://renovtekdubai.com/)  for a free consultation for home repairs and maintenance.
+[Contact us](https://dxbrenovations.ae/)  for a free consultation for home repairs and maintenance.
