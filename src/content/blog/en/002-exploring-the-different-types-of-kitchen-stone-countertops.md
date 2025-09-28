@@ -5,7 +5,7 @@ author: "Saleh"
 authorImage: "@/images/blog/jacob.avif"
 authorImageAlt: "Saleh"
 pubDate: 2025-01-09
-cardImage: "@/images/blog/post002.webp"
+cardImage: "@images/Logo - white bg.jpg"
 cardImageAlt: "Laminated Kitchen Countertop"
 readTime: 8
 tags: [ "kitchen countertops", "laminated countertops", "wooden countertops", "granite countertops", "quartz countertops", "acrylic countertops", "porcelain composite countertops", "marble countertops" ]
@@ -22,7 +22,7 @@ Laminated countertops are budget-friendly and widely available. They are made by
 
   
 
-![Laminated Kitchen Countertop](@/images/blog/post002.webp "Laminated Kitchen Countertop")
+![Laminated Kitchen Countertop](@images/Logo - white bg.jpg "Laminated Kitchen Countertop")
 
 Laminated Kitchen Countertop
 
