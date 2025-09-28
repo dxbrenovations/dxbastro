@@ -2,10 +2,10 @@
 title: "Exploring the Different Types of Kitchen Stone Countertops"
 description: "The kitchen countertop is the heart of any kitchen. It's not only a functional work surface but also a design statement that ties the space together. With so many options available, it can be difficult to choose the right one for your needs. Below, we’ll explore some popular types of kitchen countertops, highlighting their unique features, pros, and cons."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/Logo - white bg.jpg"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2025-01-09
-cardImage: "@images/Logo - white bg.jpg"
+cardImage: "@/images/blog/post002-02.webp"
 cardImageAlt: "Laminated Kitchen Countertop"
 readTime: 8
 tags: [ "kitchen countertops", "laminated countertops", "wooden countertops", "granite countertops", "quartz countertops", "acrylic countertops", "porcelain composite countertops", "marble countertops" ]
