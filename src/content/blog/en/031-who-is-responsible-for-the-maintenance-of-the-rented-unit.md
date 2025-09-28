@@ -1,9 +1,9 @@
 ---
 title: "Who is responsible for the maintenance of the rented unit?"
 description: "A summary of Dubai Rent Law regarding maintenance responsibilities for rented apartments, outlining landlord and tenant duties."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-08-29
 cardImage: "@/images/blog/post031-1.png"
 cardImageAlt: "Apartment maintenance in Dubai"

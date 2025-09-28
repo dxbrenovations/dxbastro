@@ -1,9 +1,9 @@
 ---
 title: "Dubai Real Estate Market Analysis - October Report"
 description: "A data-driven analysis of Dubai's real estate market for October, including sales, transaction values, and top areas."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-11-01
 cardImage: "@/images/blog/post024-1.png"
 cardImageAlt: "Number of one bedroom apartment sales in Dubai in October"

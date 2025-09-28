@@ -1,9 +1,9 @@
 ---
 title: "Dubai Real Estate Market - November Report"
 description: "A data-driven report on Dubai's real estate market for November, including sales trends, top areas, and transaction analysis."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-12-07
 cardImage: "@/images/blog/post019-1.png"
 cardImageAlt: "Two months comparison of Sales Amount for different bedrooms in Dubai"

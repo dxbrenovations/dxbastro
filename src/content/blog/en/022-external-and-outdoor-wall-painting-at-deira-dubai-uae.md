@@ -1,9 +1,9 @@
 ---
 title: "External and Outdoor Wall Painting at Deira - Dubai UAE"
 description: "A project overview of external and outdoor wall painting in Deira, Dubai, including surface preparation, repairs, and paint selection."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-11-18
 cardImage: "@/images/blog/post022-1.png"
 cardImageAlt: "Damaged paint on external wall before restoration"

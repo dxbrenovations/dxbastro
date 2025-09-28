@@ -1,9 +1,9 @@
 ---
 title: "The Impact of High Quality Wall Paint on Property Value in Dubai"
 description: "Explore how high quality wall paint can enhance property value in Dubai, with insights on color psychology, maintenance, and professional services."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-11-03
 cardImage: "@/images/blog/post026-1.png"
 cardImageAlt: "Wall painting in Dubai"

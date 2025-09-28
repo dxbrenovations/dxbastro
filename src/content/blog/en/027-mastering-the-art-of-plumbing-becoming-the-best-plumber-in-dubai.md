@@ -1,9 +1,9 @@
 ---
 title: "Mastering the Art of Plumbing: Becoming the Best Plumber in Dubai"
 description: "A guide to becoming a top plumber in Dubai, covering education, licensing, experience, and skills for success in the city's market."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-10-30
 cardImage: "@/images/blog/post027-1.png"
 cardImageAlt: "Best Plumber in Dubai"

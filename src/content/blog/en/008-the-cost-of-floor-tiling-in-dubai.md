@@ -1,9 +1,9 @@
 ---
 title: "The Cost of Floor Tiling in Dubai"
 description: "A breakdown of floor tiling costs in Dubai, covering material choices, labor, and additional expenses for a successful renovation."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-09-21
 cardImage: "@/images/blog/post008-1.png"
 cardImageAlt: "Floor tiling in Dubai"

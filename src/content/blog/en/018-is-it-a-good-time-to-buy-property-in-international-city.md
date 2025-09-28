@@ -1,9 +1,9 @@
 ---
 title: "Is It a Good Time to Buy Property in International City?"
 description: "An analysis of property market trends in Dubai International City, including price changes, COVID-19 impact, and investment outlook."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-01-12
 cardImage: "@/images/blog/post018-1.png"
 cardImageAlt: "International City, Dubai"

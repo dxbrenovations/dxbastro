@@ -1,9 +1,9 @@
 ---
 title: "Wall Preparation Before Painting: A Step-by-Step Guide"
 description: "Learn the essential steps for preparing walls before painting, including cleaning, repairing, stucco application, sanding, and priming for a flawless finish."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-10-13
 cardImage: "@/images/blog/post005-1.png"
 cardImageAlt: "Sanding the wall using electrical sanding machine"

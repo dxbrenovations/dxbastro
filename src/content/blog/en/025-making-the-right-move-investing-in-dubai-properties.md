@@ -1,9 +1,9 @@
 ---
 title: "Making the Right Move: Investing in Dubai Properties"
 description: "A guide to timing your investment in Dubai's real estate market, with strategies for maximizing returns and understanding market trends."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-11-05
 cardImage: "@/images/blog/post025-1.png"
 cardImageAlt: "Average price of 1 bedroom apartments in Jumeirah Lakes Towers over time"

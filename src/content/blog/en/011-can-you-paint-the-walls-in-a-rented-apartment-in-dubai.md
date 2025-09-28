@@ -1,9 +1,9 @@
 ---
 title: "Can You Paint the Walls in a Rented Apartment in Dubai?"
 description: "Find out if tenants in Dubai can paint their rented apartment walls, what permissions are needed, and how to avoid deposit deductions."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-08-25
 cardImage: "@/images/blog/post011-1.png"
 cardImageAlt: "Choosing colors for the wall painting in an apartment"

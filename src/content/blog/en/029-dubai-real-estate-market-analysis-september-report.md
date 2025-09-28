@@ -1,9 +1,9 @@
 ---
 title: "Dubai Real Estate Market Analysis - September Report"
 description: "A comprehensive analysis of Dubai's real estate market for September, including sales data, trends, and investment insights."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-10-17
 cardImage: "@/images/blog/post029-1.png"
 cardImageAlt: "Dubai skyline and real estate market overview"

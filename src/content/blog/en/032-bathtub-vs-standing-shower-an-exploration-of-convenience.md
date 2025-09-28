@@ -1,9 +1,9 @@
 ---
 title: "Bathtub vs. Standing Shower: An Exploration of Convenience"
 description: "A comparison of bathtubs and standing showers for Dubai homes, covering convenience, water efficiency, maintenance, and design flexibility."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-08-10
 cardImage: "@/images/blog/post032-1.png"
 cardImageAlt: "Bathtub shower repair maintenance design efficiency"

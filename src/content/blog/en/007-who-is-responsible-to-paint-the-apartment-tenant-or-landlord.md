@@ -1,9 +1,9 @@
 ---
 title: "Who Is Responsible to Paint the Apartment? Tenant or Landlord?"
 description: "Understand the responsibilities of tenants and landlords regarding apartment painting in Dubai, including move-in, move-out, and deposit implications."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2025-10-01
 cardImage: "@/images/blog/post007-1.png"
 cardImageAlt: "Apartment Wall painting in Palm Jumeirah"

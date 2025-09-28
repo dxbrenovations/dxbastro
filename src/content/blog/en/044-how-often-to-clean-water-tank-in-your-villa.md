@@ -1,9 +1,9 @@
 ---
 title: "How often to clean water tank in your villa?"
 description: "A guide to water tank cleaning frequency for Dubai villas, with tips for disinfection, maintenance, and ensuring safe water quality."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-04-29
 cardImage: "@/images/blog/post044-1.png"
 cardImageAlt: "Water tank cleaning in Dubai villa"

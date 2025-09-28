@@ -1,9 +1,9 @@
 ---
 title: "Emergency Maintenance Preparedness: Be Ready"
 description: "A guide to preparing for emergency maintenance in Dubai homes, including risk assessment, emergency kits, and contact lists."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-06-24
 cardImage: "@/images/blog/post034-1.png"
 cardImageAlt: "Emergency Maintenance home apartment Dubai property AC fixing repair"

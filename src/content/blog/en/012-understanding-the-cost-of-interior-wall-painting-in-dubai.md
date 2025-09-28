@@ -1,9 +1,9 @@
 ---
 title: "Understanding the Cost of Interior Wall Painting in Dubai"
 description: "A guide to the costs of interior wall painting in Dubai, comparing prices, quality, and what to expect for apartments and villas."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-08-20
 cardImage: "@/images/blog/post012-1.png"
 cardImageAlt: "Wall painting services in Dubai"

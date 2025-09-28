@@ -1,9 +1,9 @@
 ---
 title: "The Power of Preventive Maintenance: The Future of Your Home"
 description: "Discover the benefits of preventive maintenance for Dubai homes, including cost savings, safety, asset longevity, and energy efficiency."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-05-31
 cardImage: "@/images/blog/post038-1.png"
 cardImageAlt: "Maintenance company in Dubai"

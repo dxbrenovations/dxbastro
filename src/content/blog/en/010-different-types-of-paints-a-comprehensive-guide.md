@@ -1,9 +1,9 @@
 ---
 title: "Different Types of Paints: A Comprehensive Guide"
 description: "A comprehensive guide to different types of paints, including oil-based and water-based options, their properties, and best uses for home improvement."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-09-18
 cardImage: "@/images/blog/post010-1.png"
 cardImageAlt: "Wall painting using a water base paint"

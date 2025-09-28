@@ -1,9 +1,9 @@
 ---
 title: "A Guide to Different Types of Interior Paint Finishes"
 description: "Explore the various types of interior paint finishes, their properties, best uses, and drawbacks to help you choose the right one for your home."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-09-19
 cardImage: "@/images/blog/post009-1.png"
 cardImageAlt: "Different types of interior wall paint finishes"

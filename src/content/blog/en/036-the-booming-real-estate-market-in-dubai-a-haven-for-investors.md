@@ -1,9 +1,9 @@
 ---
 title: "The Booming Real Estate Market in Dubai: A Haven for Investors"
 description: "An overview of Dubai's booming real estate market, highlighting growth, investor policies, luxury lifestyle, and tourism impact."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-06-12
 cardImage: "@/images/blog/post036-1.png"
 cardImageAlt: "Dubai Real Estate property apartment villa commercial shop retail"

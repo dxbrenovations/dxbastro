@@ -1,9 +1,9 @@
 ---
 title: "Renovation Ideas for Small Apartments in Dubai"
 description: "Discover practical renovation ideas to maximize space and style in small Dubai apartments, including open-plan living, vertical storage, and multi-functional furniture."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-10-09
 cardImage: "@/images/blog/post006-1.png"
 cardImageAlt: "Home Renovation Ideas in Dubai"

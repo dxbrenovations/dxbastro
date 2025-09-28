@@ -1,9 +1,9 @@
 ---
 title: "How Covid affected the Real-estate market in Dubai"
 description: "An analysis of the impact of COVID-19 on Dubai's real estate market, with data on price changes, resilience, and area-specific trends."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-11-27
 cardImage: "@/images/blog/post021-1.png"
 cardImageAlt: "Average monthly price of an one bedroom apartment in Dubai from 2004 to 2023"

@@ -1,9 +1,9 @@
 ---
 title: "Common Maintenance Mistakes to Avoid"
 description: "A guide to avoiding common home maintenance mistakes in Dubai, with tips for inspections, repairs, cleaning, and seasonal care."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2025-06-08
 cardImage: "@/images/blog/post037-1.png"
 cardImageAlt: "Dubai Maintenance HVAC electrical AC plumbing"

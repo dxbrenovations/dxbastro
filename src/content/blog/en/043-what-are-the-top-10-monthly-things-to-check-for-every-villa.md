@@ -1,9 +1,9 @@
 ---
 title: "What are the top 10 monthly things to check for every Villa"
 description: "A checklist of the top 10 monthly maintenance tasks for villas in Dubai, covering safety, landscaping, plumbing, and more."
-author: "Saleh"
+author: "Renotech Technical Services LLC"
 authorImage: "@/images/blog/jacob.avif"
-authorImageAlt: "Saleh"
+authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-05-02
 cardImage: "@/images/blog/post043-1.png"
 cardImageAlt: "Villa maintenance in Dubai"
