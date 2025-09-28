@@ -2,7 +2,7 @@
 title: "Gym Renovation at an Apartment Building in Deirah"
 description: "A detailed account of a gym renovation in Deira, Dubai, covering repairs, painting, flooring, and equipment upgrades for a modern fitness space."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-02-05
 cardImage: "@/images/blog/post016-1.png"

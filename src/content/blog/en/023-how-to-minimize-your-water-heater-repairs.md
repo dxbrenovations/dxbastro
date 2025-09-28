@@ -2,7 +2,7 @@
 title: "How to minimize your water heater repairs"
 description: "Essential tips for minimizing water heater repairs in Dubai, including maintenance, insulation, temperature settings, and professional checks."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-11-10
 cardImage: "@/images/blog/post023-1.png"

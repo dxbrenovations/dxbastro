@@ -2,7 +2,7 @@
 title: "The Importance of AC Duct Cleaning"
 description: "Learn why regular AC duct cleaning is essential in Dubai, with benefits for air quality, energy efficiency, and AC system longevity."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-05-07
 cardImage: "@/images/blog/post042-1.png"

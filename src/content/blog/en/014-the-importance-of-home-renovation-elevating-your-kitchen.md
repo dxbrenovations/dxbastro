@@ -2,7 +2,7 @@
 title: "The Importance of Home Renovation: Elevating Your Kitchen"
 description: "Discover why kitchen renovation is crucial for comfort, value, energy efficiency, and safety, with real examples from Dubai homes."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-07-27
 cardImage: "@/images/blog/post014-1.png"

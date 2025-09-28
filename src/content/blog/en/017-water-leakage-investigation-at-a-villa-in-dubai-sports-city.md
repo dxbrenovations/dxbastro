@@ -2,7 +2,7 @@
 title: "Water Leakage Investigation at a Villa in Dubai Sports City"
 description: "A case study of water leakage investigation and repair at a villa in Dubai Sports City, highlighting detection and resolution steps."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-02-04
 cardImage: "@/images/blog/post017-1.png"

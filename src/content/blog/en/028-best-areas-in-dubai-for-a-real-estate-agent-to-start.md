@@ -2,7 +2,7 @@
 title: "Best Areas in Dubai for a Real Estate Agent to Start"
 description: "A guide for real estate agents starting in Dubai, with insights on neighborhoods, market trends, and success strategies."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-10-27
 cardImage: "@/images/blog/post028-1.png"

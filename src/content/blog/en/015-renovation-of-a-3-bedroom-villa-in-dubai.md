@@ -2,7 +2,7 @@
 title: "Renovation of a 3-Bedroom Villa in Dubai"
 description: "A comprehensive renovation of a 3-bedroom villa in Dubai, including kitchen and bathroom upgrades, repairs, and modern design improvements."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-05-19
 cardImage: "@/images/blog/post015-1.png"

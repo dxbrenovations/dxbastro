@@ -2,7 +2,7 @@
 title: "How Covid affected the Real-estate market in Dubai"
 description: "An analysis of the impact of COVID-19 on Dubai's real estate market, with data on price changes, resilience, and area-specific trends."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-11-27
 cardImage: "@/images/blog/post021-1.png"

@@ -2,7 +2,7 @@
 title: "Exploring Jota Shield Color Last and Jota Shield Eterna"
 description: "A comparison of Jotun's Jota Shield Color Last and Jota Shield Eterna paints, focusing on features, durability, and suitability for Dubai's climate."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-10-10
 cardImage: "@/images/blog/post030-1.png"

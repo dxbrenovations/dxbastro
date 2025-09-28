@@ -2,7 +2,7 @@
 title: "Energy Efficiency and Maintenance"
 description: "Explore the link between energy efficiency and home maintenance in Dubai, with tips for HVAC, insulation, appliances, and lighting."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-05-27
 cardImage: "@/images/blog/post039-1.png"

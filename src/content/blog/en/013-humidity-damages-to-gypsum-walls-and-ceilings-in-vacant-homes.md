@@ -2,7 +2,7 @@
 title: "Humidity Damages to Gypsum Walls and Ceilings in Vacant Homes"
 description: "Learn how Dubai's humidity can damage gypsum walls and ceilings in vacant homes, and discover prevention and repair tips."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-07-30
 cardImage: "@/images/blog/post013-1.png"

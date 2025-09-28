@@ -2,7 +2,7 @@
 title: "Bathroom Renovation in Dubai: Transforming Spaces"
 description: "Explore how modern bathroom renovations in Dubai address water leakage, outdated designs, and safety, with a focus on standing showers, tile upgrades, and improved lighting."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-12-13
 cardImage: "@/images/blog/post004-1.png"

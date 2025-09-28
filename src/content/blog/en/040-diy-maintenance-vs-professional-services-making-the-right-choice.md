@@ -2,7 +2,7 @@
 title: "DIY Maintenance vs Professional Services: Making the Right Choice"
 description: "A comparison of DIY maintenance and professional services for Dubai homes, with pros, cons, and tips for making the right choice."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-05-25
 cardImage: "@/images/blog/post040-1.png"

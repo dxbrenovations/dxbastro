@@ -2,7 +2,7 @@
 title: "Pros and Cons of Hiring a Real Estate Agent"
 description: "A balanced look at the advantages and disadvantages of hiring a real estate agent for buying or selling property in Dubai."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2025-06-06
 cardImage: "@/images/blog/post033-1.png"

@@ -3,12 +3,12 @@ import ogImageSrc from "@images/social.png";
 
 
 export const SITE = {
-  title: "Renovate",
+  title: "Renotech Technical Services LLC",
   tagline: "Professional Home, Office & Retail Fitouts",
   description: "Transform your space with our expert renovation and fitout services. We specialize in creating beautiful, functional, and inspiring environments for homes, offices, and retail stores.",
   description_short: "Professional home, office, and retail fitout services.",
-  url: "https://renovate.com",
-  author: "Your Name",
+  url: "https://dxbrenovations.ae/",
+  author: "Renotech",
 };
 
 export const SEO = {

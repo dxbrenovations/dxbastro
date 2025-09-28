@@ -2,7 +2,7 @@
 title: "Bathroom and shower Renovation in Dubai"
 description: "A detailed look at a bathroom and shower renovation project in Dubai, covering demolition, waterproofing, tiling, and finishing touches for a modern, durable result."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2024-12-18
 cardImage: "@/images/blog/post003.jpg"

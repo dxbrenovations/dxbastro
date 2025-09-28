@@ -2,7 +2,7 @@
 title: "Wall Repair at Two Basements Parking and Ground Level"
 description: "A project overview of wall repairs at a Deira office building, addressing water damage, crack filling, and painting for lasting results."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-12-06
 cardImage: "@/images/blog/post020-1.png"

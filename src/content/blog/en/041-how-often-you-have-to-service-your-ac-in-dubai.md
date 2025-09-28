@@ -2,7 +2,7 @@
 title: "How often you have to service your AC in Dubai?"
 description: "A guide to AC maintenance frequency in Dubai, including tips for servicing, duct cleaning, and maximizing AC lifespan and efficiency."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-05-15
 cardImage: "@/images/blog/post041-1.png"

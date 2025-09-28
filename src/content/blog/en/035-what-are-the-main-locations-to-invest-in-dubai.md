@@ -2,7 +2,7 @@
 title: "What are the main locations to invest in Dubai?"
 description: "A guide to the top areas for property investment in Dubai, including Business Bay, Downtown, Marina, Arabian Ranches, and more."
 author: "Renotech Technical Services LLC"
-authorImage: "@/images/blog/jacob.avif"
+authorImage: "@/images/blog/dxb_logo.png"
 authorImageAlt: "Renotech Technical Services LLC"
 pubDate: 2023-06-13
 cardImage: "@/images/blog/post035-1.png"

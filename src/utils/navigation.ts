@@ -18,7 +18,7 @@ const footerLinks = [
   {
     section: "Company",
     links: [
-      { name: "About us", url: "#" },
+      // { name: "About us", url: "#" },
       { name: "Blog", url: "/blog" },
       // { name: "Careers", url: "#" },
       // { name: "Customers", url: "#" },
