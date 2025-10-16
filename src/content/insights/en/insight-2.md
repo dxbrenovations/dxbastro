@@ -69,6 +69,6 @@ These subtle yet powerful updates improve your property’s visual appeal and ov
 
 Renovating your home is more than an upgrade — it’s an investment in comfort and long-term value. By focusing on key areas like kitchens, bathrooms, painting, and energy efficiency, you can significantly increase your property value while creating a more enjoyable living space.
 
-At [Your Company Name], we provide expert home renovation and maintenance services in Dubai, ensuring every project meets the highest standards of quality and durability.
+At Renotech Technical Services LLC, we provide expert home renovation and maintenance services in Dubai, ensuring every project meets the highest standards of quality and durability.
 
 📞 Contact us today for a free consultation and let’s bring your renovation ideas to life!
