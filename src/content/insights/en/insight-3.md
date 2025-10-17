@@ -1,8 +1,8 @@
 ---
 title: "How to Create a Maintenance Schedule for Large Properties"
 description: "Learn how to create an effective maintenance schedule for large properties in Dubai to prevent costly repairs, ensure tenant satisfaction, and extend building lifespan."
-cardImage: "@/images/insights/insight-3.avif"
-cardImageAlt: "Top view mechanical tools arrangement"
+cardImage: "@/images/comp photos/AC (5).jpg"
+cardImageAlt: "AC technician at work doing electrical repairs at an outdoor AC"
 ---
 
 Managing a large property — whether it’s a residential complex, commercial building, or mixed-use development — requires strategic and organized maintenance planning. Without a proper schedule, minor issues can quickly escalate into expensive repairs, tenant complaints, or operational disruptions.
